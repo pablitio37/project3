@@ -37,3 +37,14 @@ The server is now running on poer 5000
 
 ![text5](https://user-images.githubusercontent.com/108102087/178266330-2bc2c1ee-2a8d-4e01-95d4-ce4be76a84ac.PNG)
 
+
+# MONGODB DATABASE
+MongoDB Database
+We need a database where we will store our data. For this we will make use of mLab. mLab provides MongoDB database as a service solution (DBaaS), so to make life easy, you will need to sign up for a shared clusters free account, which is ideal for our use case. Sign up here. Follow the sign up process, select AWS as the cloud provider, and choose a region near you.
+
+I encountered a blockage here, and it has to do with the connection string to access the database. i patiently edit my password, username, network access and database name. eventualy, i have this result.
+
+
+![text7](https://user-images.githubusercontent.com/108102087/178342196-bc96394e-c4ee-4b96-9dd3-6f6116a4ce4e.PNG)
+
+
