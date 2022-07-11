@@ -24,4 +24,8 @@ Package.json file successfully created. see below:
 
 ![text2](https://user-images.githubusercontent.com/108102087/178257338-3d6c015b-9e5d-4006-89ca-ca42efa92b5b.PNG)
 
+# INSTALL EXPRESSJS
+Install ExpressJS
+Remember that Express is a framework for Node.js, therefore a lot of things developers would have programmed is already taken care of out of the box. Therefore it simplifies development, and abstracts a lot of low level details. For example, Express helps to define routes of your application based on HTTP methods and URLs.
 
+![text3](https://user-images.githubusercontent.com/108102087/178260059-2ed00cb2-8de5-4b6e-a55f-de03ef852b6b.PNG)
