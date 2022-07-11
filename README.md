@@ -18,3 +18,10 @@ After successfully creating our instance, i moved to the first step
 I upgraded and after get the location of Node.js software from Ubuntu repositories.thereafter i install Node.js
 
 ![text1](https://user-images.githubusercontent.com/108102087/178254898-6110acd2-c3f9-41cc-b46f-ae00a4a7b116.PNG)
+
+Package.json file successfully created. see below:
+
+
+![text2](https://user-images.githubusercontent.com/108102087/178257338-3d6c015b-9e5d-4006-89ca-ca42efa92b5b.PNG)
+
+
