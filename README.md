@@ -50,3 +50,11 @@ I encountered a blockage here, and it has to do with the connection string to ac
 ![text8](https://user-images.githubusercontent.com/108102087/178623134-59a8332b-4171-4283-85e6-6b120ed37a97.PNG)
 
 
+STEP 2 – FRONTEND CREATION
+Step 2 – Frontend creation
+Since we are done with the functionality we want from our backend and API, it is time to create a user interface for a Web client (browser) to interact with the application via API. To start out with the frontend of the To-do app, we will use the create-react-app command to scaffold our app
+
+![text9](https://user-images.githubusercontent.com/108102087/178803449-cf67a96d-7ee5-4325-9145-2eee00dcdf16.PNG)
+
+
+
